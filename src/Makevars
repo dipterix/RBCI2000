@@ -1,0 +1,2 @@
+PKG_CPPFLAGS= -I../inst/include/BCI2000Interface/core/Operator/BCI2000Remote -I../inst/include/BCI2000Interface/shared/config -I../inst/include/BCI2000Interface/shared/utils/Lib
+PKG_LIBS=
